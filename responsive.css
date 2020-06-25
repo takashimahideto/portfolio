@@ -1,0 +1,77 @@
+@media screen and (max-width:450px){
+    .main-img{
+        height: 1200px;
+    }
+    .top-menu a{
+        font-size: 15px;
+    }
+    .mi-main{
+        display: none;
+    }
+    .mi-main2{
+        display: block;
+    }    
+    #icon2{
+        width: 50%;
+        border-radius:30% ;
+        margin:30px 25% 0;
+    }
+    .plofile2{
+        text-align: center;
+    }
+    .plofile2 h1{
+        color: white;
+        margin-top: 20px;
+    }
+    .plofile2 p{
+        color: white;
+        font-size: 25px;
+        opacity: 1;
+        font-weight: bold;
+    }
+    .mi-right2{
+        background-color: rgb(243, 240, 235,0.8);
+        text-align: center;
+        margin-top: 30px;
+        color: black;
+    }
+    .skills{
+        padding: 0;
+    }
+    .skills h2{
+        font-size: 30px;
+        width: 100%;
+        background-color: rgb(33, 55, 73,0);
+        color: white;
+        margin-top: 30px;
+    }
+    .skills ul{
+        padding-left: 0;
+    }
+    .skills li{
+        font-size: 20px;
+    }
+    #last-p{
+        margin-bottom: 0;
+    }
+    .works-menu p{
+        font-size: 13px;
+    }
+    .works-menu img{
+        width: 80%;
+    }
+    .contact-link a{
+        font-size: 30px;
+    }
+    .title{
+        font-size: 30px !important; 
+    }
+    .works a{
+        font-size: 20px !important;
+    }
+    .mi-right2 span{
+        color: red;
+        font-size: 20px;
+    }
+    
+}
