@@ -3,7 +3,7 @@
     margin: 0;
 }
 .main-img{
-    background-image: url(/Users/takashimahideto/Desktop/ポートフォリオ/backimg.jpg);
+    background-image: url(backimg.png);
     background-size: cover;
     height: 980px;
     background-color: rgba(255, 255, 255, 0.4);
