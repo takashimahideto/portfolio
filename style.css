@@ -1,0 +1,131 @@
+.container-fluid{
+    padding: 0;
+    margin: 0;
+}
+.main-img{
+    background-image: url(/Users/takashimahideto/Desktop/ポートフォリオ/backimg.jpg);
+    background-size: cover;
+    height: 980px;
+    background-color: rgba(255, 255, 255, 0.4);
+}
+.top-menu{
+    width: 100%;
+    display: flex;
+    padding-left: 0;
+    background-color: white;
+    margin-bottom: 0;
+}
+.top-menu li{
+    width: 20%;
+    padding: 10px 0; 
+    list-style: none;
+    margin: auto;
+    text-align: center;
+}
+.top-menu a{
+    color: black;
+    opacity: 1;
+    font-weight: bold;
+    font-size: 25px;
+}
+.mi-left{
+    display: flex;
+    padding: 100px 5%;
+
+}
+.plofile,.plofile2{
+    padding: 0 5%;
+    margin: 0 5%;
+}
+.plofile h1{
+    font-weight: bold;
+    opacity: 1;
+    color: black;
+}
+.plofile p{
+    font-size: 25px;
+    color: white;
+    opacity: 1;
+    font-weight: bold;
+}
+.mini{
+    font-size: 20px !important;
+}
+.icon{
+    padding-top: 50px;
+}
+#icon{
+    width: 100%;
+    border-radius: 40%;
+}
+.mi-right{
+    padding-top: 150px;
+    padding-right: 5%;
+    font-weight: bold;
+    opacity: 1;
+}
+.mi-right h2{
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.mi-right span{
+    color: red;
+    font-size: 25px;
+}
+.skills{
+    padding: 0 5%;
+}
+.skills h2{
+    width: 25%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+}
+.skills li{
+    margin-left: 50px;
+    margin-top: 30px;
+    color: white;
+    font-size: 25px;
+}
+.works a,.works h1{
+    text-align: center;
+    font-size: 40px;
+}
+.works-menu{
+    display: flex;
+    margin: 0 auto;
+}
+.works-menu li{
+    list-style: none;
+    text-align: center;
+    margin-top: 40px;
+}
+.works-menu p{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.title{
+    font-size: 60px !important;
+    padding: 30px 0;
+    display: block;
+}
+.w-top{
+    background-color: bisque;
+}
+.twitter{
+    display: block;
+    font-size: 50px;
+}
+.contact-link{
+    display: flex;
+    padding: 30px 10%;
+    text-align: center;
+}
+.contact-link a{
+    color: black;
+}
+.mi-main2{
+    display: none;
+}
